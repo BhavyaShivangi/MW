@@ -1,0 +1,1 @@
+Loans = new Mongo.Collection('loans');
